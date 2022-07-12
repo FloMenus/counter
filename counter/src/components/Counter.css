@@ -1,0 +1,32 @@
+.counter-div {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: rgb(80, 133, 133);
+    width: 300px;
+    height: 200px;
+    border-radius : 1000px;
+    border: 6px solid rgb(28, 78, 78);
+    color: wheat;
+    font-size: 30px;
+}
+
+.counter-div button {
+    border-radius: 1000px;
+    border: wheat solid 2px;
+    width: 75px;
+    height: 75px;
+    color : wheat;
+    font-size: 50px;
+}
+
+#minus-button {
+    background-color: rgb(180, 92, 70);
+}
+
+#plus-button {
+    background-color: rgb(67, 180, 86);
+}

@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+}
+
+.App {
+
+    width: 80%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: rgb(10, 20, 20);
+}
